@@ -2563,6 +2563,7 @@ dependencies = [
  "egui_pull_to_refresh",
  "egui_router",
  "egui_suspense",
+ "egui_taffy",
  "egui_thumbhash",
  "egui_virtual_list",
 ]
